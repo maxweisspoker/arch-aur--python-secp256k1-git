@@ -6,7 +6,7 @@
 
 pkgname=python-secp256k1-git
 pkgver=1.r0.g0
-pkgrel=5
+pkgrel=6
 
 pkgdesc='Python FFI bindings for libsecp256k1'
 arch=('any')
